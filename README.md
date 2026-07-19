@@ -8,9 +8,12 @@ src/
     pipeline_helper_functions.py   # helper functions for main file (feature cleaning, model training, etc)
 
 notebooks/
-  Assignment 2 Healey.py                 # runs the full pipeline
+  
+    Assignment 2 Healey.py                 # runs the full pipeline
+
 
 requirements.txt
+
 README.md
 
 ## Prerequisites
