@@ -2,19 +2,17 @@
 Assignment 2 for MLOps - Tori Healey
 
 ## Repo structure
-src/
-  
-    init.py
-    pipeline_helper_functions.py   # helper functions for main file (feature cleaning, model training, etc)
+src/init.py: initializer for helper functions code
 
-notebooks/
-  
-    Assignment 2 Healey.ipynb                 # runs the full pipeline
+src/pipeline_helper_functions.py: helper functions for main .ipynb file (feature cleaning, model training, etc)
 
+**notebooks/Assignment 2 Healey.ipynb: runs the full ML pipeline**
 
-requirements.txt
+requirements.txt: dependencies
 
-README.md
+README.md: read me file
+
+Healey Experiment Comparison.pdf: writeup of experiment results
 
 ## Prerequisites
 - A Databricks workspace with Unity Catalog enabled
