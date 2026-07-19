@@ -9,7 +9,7 @@ src/
 
 notebooks/
   
-    Assignment 2 Healey.py                 # runs the full pipeline
+    Assignment 2 Healey.ipynb                 # runs the full pipeline
 
 
 requirements.txt
