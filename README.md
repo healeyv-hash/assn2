@@ -14,6 +14,8 @@ README.md: read me file
 
 Healey Experiment Comparison.pdf: writeup of experiment results
 
+** Note: To see the output of the .ipynb file printed beneath each cell, please open the .ipynb file **within the zip file I submitted (healey_mlops_assn2/backup_python_documents/Assignment 2 Healey)**. The file in this github repo does not contain the individual outputs of each cell due to the nature of DataBricks/git.
+
 ## Prerequisites
 - A Databricks workspace with Unity Catalog enabled
 - See requirements.txt file for specific dependencies
