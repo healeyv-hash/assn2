@@ -32,6 +32,6 @@ Run `notebooks/Assignment 2 Healey.ipynb` top to bottom. It will:
 3. Preprocess the data
 4. Build two feature versions and register them as Unity Catalog feature tables
 5. Train XGBoost across across 2 feature versions and 2 hyperparameter configurations
-9. Log all runs, parameterss, and models to MLflow
+9. Log all runs, parameters, and models to MLflow
 
 
